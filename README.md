@@ -16,7 +16,7 @@ https://developers.themoviedb.org/3/movies/get-movie-details
 
   
 ## Demo
-<a href="https://imgflip.com/gif/5oxjxv">via Imgflip</a></p></div>
+https://imgflip.com/gif/5oxjxv
 
 
 
